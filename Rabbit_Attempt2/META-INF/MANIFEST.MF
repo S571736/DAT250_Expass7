@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: HelloWorld.Send
+Class-Path: amqp-client-5.13.1.jar
+
